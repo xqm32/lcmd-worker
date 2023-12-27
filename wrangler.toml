@@ -1,6 +1,7 @@
 name = "lcmd-worker"
 main = "src/index.ts"
 compatibility_date = "2023-12-18"
+workers_dev = false
 
 # Cron Triggers
 # Docs: https://developers.cloudflare.com/workers/platform/triggers/cron-triggers/
